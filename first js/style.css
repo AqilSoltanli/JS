@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    transition: 0.5s;
+}
+
+button{
+    outline: none;
+    padding: 10px 30px;
+    background-color: cyan;
+    color: black;   
+    cursor: pointer;
+}
